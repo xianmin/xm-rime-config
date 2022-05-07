@@ -1,0 +1,9 @@
+*~
+.*~
+*.bak
+/luna_pinyin.userdb/*
+/build/*
+/user.yaml
+/installation.yaml
+/sync/
+/trash/
