@@ -1,7 +1,7 @@
 *~
 .*~
 *.bak
-/luna_pinyin.userdb/*
+/luna_pinyin.userdb*
 /build/*
 /user.yaml
 /installation.yaml
